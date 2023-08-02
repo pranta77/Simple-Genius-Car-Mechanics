@@ -1,0 +1,44 @@
+[
+  {
+    "id": "1",
+    "Name": "ENGINE DIAGNOSTIC",
+    "Price": "300",
+    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Cumque, quae sint enim velit ex dolores necessitatibus blanditiis possimus libero doloribus fugiat, corporis id a nobis beatae, optio dicta harum! Velit?.",
+    "img": "https://i.ibb.co/Tkn9sQ8/services-6.webp"
+  },
+  {
+    "id": "2",
+    "Name": "WHEEL ALIGNMENT",
+    "Price": "100",
+    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Cumque, quae sint enim velit ex dolores necessitatibus blanditiis possimus libero doloribus fugiat, corporis id a nobis beatae, optio dicta harum! Velit?.",
+    "img": "https://i.ibb.co/Kj5RHz0/services-4.webp"
+  },
+  {
+    "id": "3",
+    "Name": "OIL CHANGING",
+    "Price": "150",
+    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Cumque, quae sint enim velit ex dolores necessitatibus blanditiis possimus libero doloribus fugiat, corporis id a nobis beatae, optio dicta harum! Velit?.",
+    "img": "https://i.ibb.co/2ZhxbZm/services-5.webp"
+  },
+  {
+    "id": "4",
+    "Name": "BRAKE REPARING",
+    "Price": "180",
+    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Cumque, quae sint enim velit ex dolores necessitatibus blanditiis possimus libero doloribus fugiat, corporis id a nobis beatae, optio dicta harum! Velit?.",
+    "img": "https://i.ibb.co/wzj3sdv/services-3.webp"
+  },
+  {
+    "id": "5",
+    "Name": "TIER REPARING",
+    "Price": "300",
+    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Cumque, quae sint enim velit ex dolores necessitatibus blanditiis possimus libero doloribus fugiat, corporis id a nobis beatae, optio dicta harum! Velit?.",
+    "img": "https://i.ibb.co/WcxRsY4/services-2.webp"
+  },
+  {
+    "id": "6",
+    "Name": "MOBILE CHANGING",
+    "Price": "100",
+    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Cumque, quae sint enim velit ex dolores necessitatibus blanditiis possimus libero doloribus fugiat, corporis id a nobis beatae, optio dicta harum! Velit?.",
+    "img": "https://i.ibb.co/mFzhH5H/services-1.webp"
+  }
+]
